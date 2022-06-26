@@ -1,5 +1,5 @@
 /* @Author
-Student Name: Barış Kılıç
+Name: Barış Kılıç
 E-mail: kilicb20@itu.edu.tr
 Date: 29.12.2021
 */
